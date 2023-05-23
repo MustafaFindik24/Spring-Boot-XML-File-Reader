@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+    <employee id="ID1">
+        <id>1</id>
+        <name>John Doe</name>
+        <department>IT</department>
+        <position>Software Engineer</position>
+        <salary>5000</salary>
+    </employee>
+    <employee id="ID2">
+        <id>2</id>
+        <name>Jane Smith</name>
+        <department>HR</department>
+        <position>HR Manager</position>
+        <salary>7000</salary>
+    </employee>
+    <employee id="ID3">
+        <id>3</id>
+        <name>Mike Johnson</name>
+        <department>Finance</department>
+        <position>Accountant</position>
+        <salary>6000</salary>
+    </employee>
+</company>
